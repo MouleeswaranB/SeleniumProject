@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Chrome test suite">
+<test name="Sample test 01">
+<classes>
+<class name="com.picnic.selenium.SeleniuminMaven1"/>
+</classes>
+</test>
+</suite>
